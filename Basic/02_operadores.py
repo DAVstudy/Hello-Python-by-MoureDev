@@ -42,6 +42,7 @@ print("Hola" != "Python")
 
 # Basada en el Álgebra de Boole
 # https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole
+
 print(3 > 4 and "Hola" > "Python")
 print(3 > 4 or "Hola" > "Python")
 print(3 < 4 and "Hola" < "Python")
